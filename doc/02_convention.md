@@ -8,13 +8,16 @@
 * kebab-case
 * MACRO_CASE
 
-## 항목
+## 가이드라인 (Guideline)
 
-* 클래스(Class)
-* 함수(Function)
-* 변수(Variable)
-* 프라이빗(Private)
-* 모듈(Module)
+* 클래스 (Class)
+* 함수 (Function)
+* 변수 (Variable)
+* 프로퍼티 (Property)
+* 프라이빗 (Private)
+* 소스 파일 (SourceFile)
+* 애셋 파일 (AssetFile)
+* 디렉토리 (Directory)
 
 ## 약자 (Abbreviation)
 
