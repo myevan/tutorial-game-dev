@@ -29,8 +29,9 @@
 ## 설정 (Config)
 
 1. INI
-2. YAML
-3. XML
+2. XML
+3. JSON
+4. YAML
 
 ## 프로토콜 (Protocol)
 
@@ -38,3 +39,9 @@
 2. MessagePack
 3. ProtoBuffer
 4. FlatBuffers
+
+## 버전 관리 (VCS: VersionControlSystem)
+
+1. Git + GitLFS
+2. SVN
+3. Perforce
