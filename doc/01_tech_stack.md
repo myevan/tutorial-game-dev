@@ -21,6 +21,13 @@
 2. node.js (JavaScript)
 2. FastAPI (Python) 
 
+## 프로토콜 (Protocol)
+
+1. JSON
+2. MessagePack
+3. ProtoBuffer
+4. FlatBuffers
+
 ## 스키마 (Schema)
 
 1. ProtoBuffer
@@ -32,13 +39,6 @@
 2. XML
 3. JSON
 4. YAML
-
-## 프로토콜 (Protocol)
-
-1. JSON
-2. MessagePack
-3. ProtoBuffer
-4. FlatBuffers
 
 ## 버전 관리 (VCS: VersionControlSystem)
 
