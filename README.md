@@ -12,9 +12,13 @@
 * 프로그래밍 언어: C#
 * 클라이언트 엔진: Unity
 * 웹 프레임워크: asp.net core
-* 프로토콜: MessagePack
-* 스키마: MessagePackCSharp
+* 데이터베이스: mysql
+* 캐시: redis
+* 스키마: liquibase
+* 프로토콜: RPC
+* 메시지: MessagePack
 * 설정: YAML(YamlDotNet)
+* 프로토: XLSX -> CSV
 * 버전 관리: Perforce
 
 ### 컨벤션
